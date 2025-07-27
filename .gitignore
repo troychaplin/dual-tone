@@ -1,0 +1,56 @@
+# WordPress block theme .gitignore
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Ignore WordPress core files (if present)
+wp-admin/
+wp-includes/
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore node modules and build artifacts
+node_modules/
+dist/
+build/
+
+# Ignore SASS/SCSS cache
+.sass-cache/
+
+# Ignore composer dependencies
+vendor/
+
+# Ignore IDE/editor files
+*.swp
+*.swo
+*.idea/
+.vscode/
+
+# Ignore backup and temp files
+*~
+*.bak
+*.tmp
+
+# Ignore uploads (if present)
+wp-content/uploads/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore theme specific cache
+cache/
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn error log
+yarn-error.log*
