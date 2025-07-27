@@ -1,6 +1,65 @@
 {
 	"settings": {
 		"appearanceTools": true,
+		"color": {
+			"palette": [
+				{
+					"color": "#f2f4fb",
+					"name": "Scampi 50",
+					"slug": "custom-scampi-50"
+				},
+				{
+					"color": "#e8eaf7",
+					"name": "Scampi 100",
+					"slug": "custom-scampi-100"
+				},
+				{
+					"color": "#d5d9f0",
+					"name": "Scampi 200",
+					"slug": "custom-scampi-200"
+				},
+				{
+					"color": "#bbc0e6",
+					"name": "Scampi 300",
+					"slug": "custom-scampi-300"
+				},
+				{
+					"color": "#9fa2da",
+					"name": "Scampi 400",
+					"slug": "custom-scampi-400"
+				},
+				{
+					"color": "#8987cd",
+					"name": "Scampi 500",
+					"slug": "custom-scampi-500"
+				},
+				{
+					"color": "#776ebd",
+					"name": "Scampi 600",
+					"slug": "custom-scampi-600"
+				},
+				{
+					"color": "#635aa2",
+					"name": "Scampi 700",
+					"slug": "custom-scampi-700"
+				},
+				{
+					"color": "#544d86",
+					"name": "Scampi 800",
+					"slug": "custom-scampi-800"
+				},
+				{
+					"color": "#47436c",
+					"name": "Scampi 900",
+					"slug": "custom-scampi-900"
+				},
+				{
+					"color": "#2a273f",
+					"name": "Scampi 950",
+					"slug": "custom-scampi-950"
+				}
+			]
+		},
 		"layout": {
 			"contentSize": "768px",
 			"wideSize": "1024px"
