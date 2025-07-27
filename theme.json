@@ -2,6 +2,9 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
+			"defaultDuotone": false,
+			"defaultGradients": false,
+			"defaultPalette": false,
 			"palette": [
 				{
 					"color": "#f2f4fb",
@@ -57,12 +60,220 @@
 					"color": "#2a273f",
 					"name": "Scampi 950",
 					"slug": "custom-scampi-950"
+				},
+				{
+					"color": "#191919",
+					"name": "Soft Black",
+					"slug": "custom-soft-black"
 				}
 			]
 		},
 		"layout": {
 			"contentSize": "768px",
 			"wideSize": "1024px"
+		},
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"Exo 2\"",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/exo-2/exo-2-200-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Exo 2\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/exo-2/exo-2-400-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Exo 2\"",
+							"fontStyle": "italic",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/exo-2/exo-2-200-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Exo 2\"",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/exo-2/exo-2-400-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Exo 2\"",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/exo-2/exo-2-600-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Exo 2\"",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/exo-2/exo-2-600-italic.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Exo 2\", sans-serif",
+					"name": "Exo 2",
+					"slug": "exo-2"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Lato",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/lato/lato-300-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Lato",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/lato/lato-400-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Lato",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/lato/lato-700-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Lato",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/lato/lato-300-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Lato",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/lato/lato-400-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Lato",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/lato/lato-700-italic.woff2"
+							]
+						}
+					],
+					"fontFamily": "Lato, sans-serif",
+					"name": "Lato",
+					"slug": "lato"
+				}
+			]
+		}
+	},
+	"styles": {
+		"color": {
+			"background": "#ffffff",
+			"text": "var(--wp--preset--color--custom-scampi-950)"
+		},
+		"elements": {
+			"button": {
+				"color": {
+					"background": "var(--wp--preset--color--custom-scampi-200)",
+					"text": "var(--wp--preset--color--custom-soft-black)"
+				}
+			},
+			"caption": {
+				"color": {
+					"text": "var(--wp--preset--color--custom-scampi-700)"
+				}
+			},
+			"h1": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontStyle": "normal",
+					"fontWeight": "400"
+				}
+			},
+			"h2": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"h4": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"h5": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"h6": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontStyle": "italic",
+					"fontWeight": "600"
+				}
+			},
+			"heading": {
+				"color": {
+					"text": "var(--wp--preset--color--custom-scampi-800)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontStyle": "normal",
+					"fontWeight": "600",
+					"lineHeight": "1.2"
+				}
+			},
+			"link": {
+				":hover": {
+					"color": {
+						"text": "var(--wp--preset--color--custom-scampi-600)"
+					}
+				},
+				"color": {
+					"text": "var(--wp--preset--color--custom-scampi-950)"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--lato)",
+			"fontSize": "var(--wp--preset--font-size--medium)",
+			"fontStyle": "normal",
+			"fontWeight": "300",
+			"lineHeight": "1.6"
 		}
 	},
 	"templateParts": [
