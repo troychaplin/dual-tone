@@ -73,6 +73,8 @@
 			"wideSize": "1024px"
 		},
 		"typography": {
+			"customFontSize": true,
+			"defaultFontSizes": false,
 			"fontFamilies": [
 				{
 					"fontFace": [
@@ -185,11 +187,53 @@
 					"slug": "lato"
 				}
 			],
-			"fontSizes": []
+			"fontSizes": [
+				{
+					"fluid": {
+						"max": "15px",
+						"min": "13px"
+					},
+					"name": "Small",
+					"size": "13px",
+					"slug": "small"
+				},
+				{
+					"fluid": {
+						"max": "19px",
+						"min": "16px"
+					},
+					"name": "Medium",
+					"size": "19px",
+					"slug": "medium"
+				},
+				{
+					"fluid": {
+						"max": "36px",
+						"min": "28px"
+					},
+					"name": "Large",
+					"size": "36px",
+					"slug": "large"
+				},
+				{
+					"fluid": {
+						"max": "48px",
+						"min": "36px"
+					},
+					"name": "Extra Large",
+					"size": "48px",
+					"slug": "x-large"
+				}
+			]
 		}
 	},
 	"styles": {
 		"blocks": {
+			"core/button": {
+				"typography": {
+					"fontSize": "18px"
+				}
+			},
 			"core/navigation": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--exo-2)",
@@ -255,6 +299,7 @@
 			"h2": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontSize": "var(--wp--preset--font-size--large)",
 					"fontStyle": "normal",
 					"fontWeight": "400"
 				}
@@ -262,6 +307,7 @@
 			"h3": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontSize": "28px",
 					"fontStyle": "normal",
 					"fontWeight": "400"
 				}
@@ -269,13 +315,15 @@
 			"h4": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontSize": "22px",
 					"fontStyle": "normal",
-					"fontWeight": "600"
+					"fontWeight": "400"
 				}
 			},
 			"h5": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontSize": "var(--wp--preset--font-size--medium)",
 					"fontStyle": "normal",
 					"fontWeight": "600"
 				}
@@ -283,6 +331,7 @@
 			"h6": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--exo-2)",
+					"fontSize": "var(--wp--preset--font-size--medium)",
 					"fontStyle": "italic",
 					"fontWeight": "600"
 				}
