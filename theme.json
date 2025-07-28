@@ -132,57 +132,57 @@
 				{
 					"fontFace": [
 						{
-							"fontFamily": "Lato",
+							"fontFamily": "Inter",
 							"fontStyle": "normal",
-							"fontWeight": "300",
+							"fontWeight": "200",
 							"src": [
-								"file:./assets/fonts/lato/lato-300-normal.woff2"
+								"file:./assets/fonts/inter/inter-200-normal.woff2"
 							]
 						},
 						{
-							"fontFamily": "Lato",
+							"fontFamily": "Inter",
 							"fontStyle": "normal",
 							"fontWeight": "400",
 							"src": [
-								"file:./assets/fonts/lato/lato-400-normal.woff2"
+								"file:./assets/fonts/inter/inter-400-normal.woff2"
 							]
 						},
 						{
-							"fontFamily": "Lato",
+							"fontFamily": "Inter",
 							"fontStyle": "normal",
-							"fontWeight": "700",
+							"fontWeight": "600",
 							"src": [
-								"file:./assets/fonts/lato/lato-700-normal.woff2"
+								"file:./assets/fonts/inter/inter-600-normal.woff2"
 							]
 						},
 						{
-							"fontFamily": "Lato",
+							"fontFamily": "Inter",
 							"fontStyle": "italic",
-							"fontWeight": "300",
+							"fontWeight": "200",
 							"src": [
-								"file:./assets/fonts/lato/lato-300-italic.woff2"
+								"file:./assets/fonts/inter/inter-200-italic.woff2"
 							]
 						},
 						{
-							"fontFamily": "Lato",
+							"fontFamily": "Inter",
 							"fontStyle": "italic",
 							"fontWeight": "400",
 							"src": [
-								"file:./assets/fonts/lato/lato-400-italic.woff2"
+								"file:./assets/fonts/inter/inter-400-italic.woff2"
 							]
 						},
 						{
-							"fontFamily": "Lato",
+							"fontFamily": "Inter",
 							"fontStyle": "italic",
-							"fontWeight": "700",
+							"fontWeight": "600",
 							"src": [
-								"file:./assets/fonts/lato/lato-700-italic.woff2"
+								"file:./assets/fonts/inter/inter-600-italic.woff2"
 							]
 						}
 					],
-					"fontFamily": "Lato, sans-serif",
-					"name": "Lato",
-					"slug": "lato"
+					"fontFamily": "Inter, sans-serif",
+					"name": "Inter",
+					"slug": "inter"
 				}
 			]
 		}
@@ -302,10 +302,10 @@
 			}
 		},
 		"typography": {
-			"fontFamily": "var(--wp--preset--font-family--lato)",
-			"fontSize": "var(--wp--preset--font-size--medium)",
+			"fontFamily": "var(--wp--preset--font-family--inter)",
+			"fontSize": "18px",
 			"fontStyle": "normal",
-			"fontWeight": "300",
+			"fontWeight": "200",
 			"lineHeight": "1.6"
 		}
 	},
