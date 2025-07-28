@@ -495,7 +495,7 @@
 				},
 				{
 					"fluid": {
-						"max": "26px",
+						"max": "25px",
 						"min": "19px"
 					},
 					"name": "Large",
@@ -513,8 +513,8 @@
 				},
 				{
 					"fluid": {
-						"max": "34px",
-						"min": "28px"
+						"max": "36px",
+						"min": "24px"
 					},
 					"name": "2XL Large",
 					"size": "42px",
@@ -522,8 +522,8 @@
 				},
 				{
 					"fluid": {
-						"max": "54px",
-						"min": "42px"
+						"max": "50px",
+						"min": "30px"
 					},
 					"name": "3XL Large",
 					"size": "54px",
