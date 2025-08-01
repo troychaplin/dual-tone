@@ -1,293 +1,6 @@
 {
 	"settings": {
 		"appearanceTools": true,
-		"blocks": {
-			"core/image": {
-				"appearanceTools": true,
-				"color": {
-					"background": true,
-					"custom": true,
-					"customDuotone": true,
-					"customGradient": true,
-					"defaultDuotone": false,
-					"defaultGradients": false,
-					"defaultPalette": false,
-					"duotone": [],
-					"gradients": [],
-					"palette": [
-						{
-							"color": "#f2f4fb",
-							"name": "Scampi 50",
-							"slug": "custom-scampi-50"
-						},
-						{
-							"color": "#e8eaf7",
-							"name": "Scampi 100",
-							"slug": "custom-scampi-100"
-						},
-						{
-							"color": "#d5d9f0",
-							"name": "Scampi 200",
-							"slug": "custom-scampi-200"
-						},
-						{
-							"color": "#bbc0e6",
-							"name": "Scampi 300",
-							"slug": "custom-scampi-300"
-						},
-						{
-							"color": "#9fa2da",
-							"name": "Scampi 400",
-							"slug": "custom-scampi-400"
-						},
-						{
-							"color": "#8987cd",
-							"name": "Scampi 500",
-							"slug": "custom-scampi-500"
-						},
-						{
-							"color": "#776ebd",
-							"name": "Scampi 600",
-							"slug": "custom-scampi-600"
-						},
-						{
-							"color": "#635aa2",
-							"name": "Scampi 700",
-							"slug": "custom-scampi-700"
-						},
-						{
-							"color": "#544d86",
-							"name": "Scampi 800",
-							"slug": "custom-scampi-800"
-						},
-						{
-							"color": "#47436c",
-							"name": "Scampi 900",
-							"slug": "custom-scampi-900"
-						},
-						{
-							"color": "#2a273f",
-							"name": "Scampi 950",
-							"slug": "custom-scampi-950"
-						},
-						{
-							"color": "#191919",
-							"name": "Soft Black",
-							"slug": "custom-soft-black"
-						}
-					],
-					"text": true
-				},
-				"layout": {
-					"contentSize": "768px",
-					"wideSize": "1024px"
-				},
-				"lightbox": {
-					"allowEditing": true,
-					"enabled": false
-				},
-				"shadow": {
-					"defaultPresets": true,
-					"presets": []
-				},
-				"spacing": {
-					"customSpacingSize": true,
-					"defaultSpacingSizes": true,
-					"spacingScale": {
-						"default": {
-							"increment": 1.5,
-							"mediumStep": 1.5,
-							"operator": "*",
-							"steps": 7,
-							"unit": "rem"
-						}
-					},
-					"spacingSizes": [],
-					"units": false
-				},
-				"typography": {
-					"customFontSize": true,
-					"defaultFontSizes": false,
-					"dropCap": true,
-					"fontFamilies": [
-						{
-							"fontFace": [
-								{
-									"fontFamily": "\"Exo 2\"",
-									"fontStyle": "normal",
-									"fontWeight": "200",
-									"src": [
-										"file:./assets/fonts/exo-2/exo-2-200-normal.woff2"
-									]
-								},
-								{
-									"fontFamily": "\"Exo 2\"",
-									"fontStyle": "normal",
-									"fontWeight": "400",
-									"src": [
-										"file:./assets/fonts/exo-2/exo-2-400-normal.woff2"
-									]
-								},
-								{
-									"fontFamily": "\"Exo 2\"",
-									"fontStyle": "italic",
-									"fontWeight": "200",
-									"src": [
-										"file:./assets/fonts/exo-2/exo-2-200-italic.woff2"
-									]
-								},
-								{
-									"fontFamily": "\"Exo 2\"",
-									"fontStyle": "italic",
-									"fontWeight": "400",
-									"src": [
-										"file:./assets/fonts/exo-2/exo-2-400-italic.woff2"
-									]
-								},
-								{
-									"fontFamily": "\"Exo 2\"",
-									"fontStyle": "normal",
-									"fontWeight": "600",
-									"src": [
-										"file:./assets/fonts/exo-2/exo-2-600-normal.woff2"
-									]
-								},
-								{
-									"fontFamily": "\"Exo 2\"",
-									"fontStyle": "italic",
-									"fontWeight": "600",
-									"src": [
-										"file:./assets/fonts/exo-2/exo-2-600-italic.woff2"
-									]
-								}
-							],
-							"fontFamily": "\"Exo 2\", sans-serif",
-							"name": "Exo 2",
-							"slug": "exo-2"
-						},
-						{
-							"fontFace": [
-								{
-									"fontFamily": "Lato",
-									"fontStyle": "normal",
-									"fontWeight": "300",
-									"src": [
-										"file:./assets/fonts/lato/lato-300-normal.woff2"
-									]
-								},
-								{
-									"fontFamily": "Lato",
-									"fontStyle": "normal",
-									"fontWeight": "400",
-									"src": [
-										"file:./assets/fonts/lato/lato-400-normal.woff2"
-									]
-								},
-								{
-									"fontFamily": "Lato",
-									"fontStyle": "normal",
-									"fontWeight": "700",
-									"src": [
-										"file:./assets/fonts/lato/lato-700-normal.woff2"
-									]
-								},
-								{
-									"fontFamily": "Lato",
-									"fontStyle": "italic",
-									"fontWeight": "300",
-									"src": [
-										"file:./assets/fonts/lato/lato-300-italic.woff2"
-									]
-								},
-								{
-									"fontFamily": "Lato",
-									"fontStyle": "italic",
-									"fontWeight": "400",
-									"src": [
-										"file:./assets/fonts/lato/lato-400-italic.woff2"
-									]
-								},
-								{
-									"fontFamily": "Lato",
-									"fontStyle": "italic",
-									"fontWeight": "700",
-									"src": [
-										"file:./assets/fonts/lato/lato-700-italic.woff2"
-									]
-								}
-							],
-							"fontFamily": "Lato, sans-serif",
-							"name": "Lato",
-							"slug": "lato"
-						}
-					],
-					"fontSizes": [
-						{
-							"fluid": {
-								"max": "15px",
-								"min": "13px"
-							},
-							"name": "Small",
-							"size": "13px",
-							"slug": "small"
-						},
-						{
-							"fluid": {
-								"max": "19px",
-								"min": "16px"
-							},
-							"name": "Medium",
-							"size": "19px",
-							"slug": "medium"
-						},
-						{
-							"fluid": {
-								"max": "26px",
-								"min": "19px"
-							},
-							"name": "Large",
-							"size": "28px",
-							"slug": "large"
-						},
-						{
-							"fluid": {
-								"max": "28px",
-								"min": "22px"
-							},
-							"name": "Extra Large",
-							"size": "36px",
-							"slug": "x-large"
-						},
-						{
-							"fluid": {
-								"max": "34px",
-								"min": "28px"
-							},
-							"name": "2XL Large",
-							"size": "42px",
-							"slug": "xx-large"
-						},
-						{
-							"fluid": {
-								"max": "54px",
-								"min": "42px"
-							},
-							"name": "3XL Large",
-							"size": "54px",
-							"slug": "xxx-large"
-						}
-					],
-					"fontStyle": true,
-					"fontWeight": true,
-					"letterSpacing": true,
-					"textAlign": true,
-					"textDecoration": true,
-					"textTransform": true,
-					"writingMode": false
-				},
-				"useRootPaddingAwareAlignments": false
-			}
-		},
 		"color": {
 			"defaultDuotone": false,
 			"defaultGradients": false,
@@ -507,7 +220,7 @@
 						"max": "28px",
 						"min": "22px"
 					},
-					"name": "Extra Large",
+					"name": "X-Large",
 					"size": "36px",
 					"slug": "x-large"
 				},
@@ -516,7 +229,7 @@
 						"max": "36px",
 						"min": "24px"
 					},
-					"name": "2XL Large",
+					"name": "2X-Large",
 					"size": "42px",
 					"slug": "xx-large"
 				},
@@ -525,9 +238,18 @@
 						"max": "50px",
 						"min": "30px"
 					},
-					"name": "3XL Large",
+					"name": "3X-Large",
 					"size": "54px",
 					"slug": "xxx-large"
+				},
+				{
+					"fluid": {
+						"max": "68px",
+						"min": "44px"
+					},
+					"name": "4X-Large",
+					"size": "72px",
+					"slug": "custom-1"
 				}
 			]
 		}
