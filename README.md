@@ -18,13 +18,17 @@ Baseline values for colour names
 | Primary Headings    | 700                          |
 | Primary Text        | 950                          |
 
-## Colour Palettes
+## Style Variations
 
-### Style 1
+## Default
 
-- Primary: `#5a9ccf` -- [Tailwind Generator: Danube](https://uicolors.app/generate/5a9ccf)
+- Primary: `#3b83bc` -- [Tailwind Generator: Steel Blue](https://uicolors.app/generate/3b83bc)
+- Secondary: `#bb583b` -- [Tailwind Generator: Brown Rust](https://uicolors.app/generate/bb583b)
 
-### Style 2
+### Scampi
 
 - Primary: `#635aa2` -- [Tailwind Generator: Scampi](https://uicolors.app/generate/635aa2)
-- Primary: `#ffc464` -- [Tailwind Generator: My Sin](https://uicolors.app/generate/ffc464)
+
+### Avocado
+
+- Primary: `#7e864b` -- [Tailwind Generator: Scampi](https://uicolors.app/generate/7e864b)

@@ -56,7 +56,7 @@
 					"slug": "dual-tone-primary-text"
 				},
 				{
-					"color": "#c36248",
+					"color": "#bb583b",
 					"name": "Secondary 600",
 					"slug": "dual-tone-secondary-600"
 				}
@@ -253,38 +253,38 @@
 			"core/button": {
 				"border": {
 					"bottom": {
-						"color": "#e8eaf7",
+						"color": "var(--wp--preset--color--dual-tone-primary-pale)",
 						"style": "solid",
 						"width": "1px"
 					},
 					"color": null,
 					"left": {
-						"color": "#e8eaf7",
+						"color": "var(--wp--preset--color--dual-tone-primary-pale)",
 						"style": "solid",
 						"width": "1px"
 					},
 					"radius": "4px",
 					"right": {
-						"color": "#e8eaf7",
+						"color": "var(--wp--preset--color--dual-tone-primary-pale)",
 						"style": "solid",
 						"width": "1px"
 					},
 					"style": null,
 					"top": {
-						"color": "#e8eaf7",
+						"color": "var(--wp--preset--color--dual-tone-primary-pale)",
 						"style": "solid",
 						"width": "1px"
 					},
 					"width": null
 				},
 				"color": {
-					"background": "#e9e9f7",
-					"text": "var(--wp--preset--color--custom-soft-black)"
+					"background": "var(--wp--preset--color--dual-tone-primary-faint)",
+					"text": "var(--wp--preset--color--dual-tone-primary-text)"
 				},
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var(--wp--preset--color--custom-soft-black)"
+							"text": "var(--wp--preset--color--dual-tone-primary-text)"
 						}
 					}
 				},
@@ -299,31 +299,31 @@
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--medium)",
 					"fontStyle": "normal",
-					"fontWeight": "300"
+					"fontWeight": "200"
 				},
 				"variations": {
 					"outline": {
 						"border": {
 							"bottom": {
-								"color": "#d5d9f0",
+								"color": "var(--wp--preset--color--dual-tone-primary-light)",
 								"style": "solid",
 								"width": "1px"
 							},
 							"color": null,
 							"left": {
-								"color": "#d5d9f0",
+								"color": "var(--wp--preset--color--dual-tone-primary-light)",
 								"style": "solid",
 								"width": "1px"
 							},
 							"radius": "4px",
 							"right": {
-								"color": "#d5d9f0",
+								"color": "var(--wp--preset--color--dual-tone-primary-light)",
 								"style": "solid",
 								"width": "1px"
 							},
 							"style": null,
 							"top": {
-								"color": "#d5d9f0",
+								"color": "var(--wp--preset--color--dual-tone-primary-light)",
 								"style": "solid",
 								"width": "1px"
 							},
