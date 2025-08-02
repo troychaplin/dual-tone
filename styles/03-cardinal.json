@@ -1,0 +1,56 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json",
+	"version": 3,
+	"title": "Cardinal",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#FFFFFF",
+					"name": "White",
+					"slug": "white"
+				},
+				{
+					"color": "#fff1f1",
+					"name": "Primary Faint",
+					"slug": "dual-tone-primary-faint"
+				},
+				{
+					"color": "#ffe4e5",
+					"name": "Primary Pale",
+					"slug": "dual-tone-primary-pale"
+				},
+				{
+					"color": "#fecdd1",
+					"name": "Primary Light",
+					"slug": "dual-tone-primary-light"
+				},
+				{
+					"color": "#fda4ab",
+					"name": "Primary Regular",
+					"slug": "dual-tone-primary-regular"
+				},
+				{
+					"color": "#f43f55",
+					"name": "Primary Medium",
+					"slug": "dual-tone-primary-medium"
+				},
+				{
+					"color": "#c51336",
+					"name": "Primary Heading",
+					"slug": "dual-tone-primary-headings"
+				},
+				{
+					"color": "#4c0516",
+					"name": "Primary Text",
+					"slug": "dual-tone-primary-text"
+				},
+				{
+					"color": "c36248",
+					"name": "Secondary 600",
+					"slug": "dual-tone-secondary-600"
+				}
+			]
+		}
+	}
+}
