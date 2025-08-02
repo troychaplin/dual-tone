@@ -12,42 +12,42 @@
 					"slug": "white"
 				},
 				{
-					"color": "#f2f4fb",
+					"color": "#f3f7fc",
 					"name": "Primary Faint",
 					"slug": "dual-tone-primary-faint"
 				},
 				{
-					"color": "#e8eaf7",
+					"color": "#e6eff8",
 					"name": "Primary Pale",
 					"slug": "dual-tone-primary-pale"
 				},
 				{
-					"color": "#d5d9f0",
+					"color": "#c8ddef",
 					"name": "Primary Light",
 					"slug": "dual-tone-primary-light"
 				},
 				{
-					"color": "#bbc0e6",
+					"color": "#97c0e2",
 					"name": "Primary Regular",
 					"slug": "dual-tone-primary-regular"
 				},
 				{
-					"color": "#8987cd",
+					"color": "#3b83bc",
 					"name": "Primary Medium",
 					"slug": "dual-tone-primary-medium"
 				},
 				{
-					"color": "#635aa2",
+					"color": "#235481",
 					"name": "Primary Heading",
 					"slug": "dual-tone-primary-headings"
 				},
 				{
-					"color": "#2a273f",
+					"color": "#15273c",
 					"name": "Primary Text",
 					"slug": "dual-tone-primary-text"
 				},
 				{
-					"color": "#d86807",
+					"color": "#c36248",
 					"name": "Secondary 600",
 					"slug": "dual-tone-secondary-600"
 				}

@@ -1,7 +1,7 @@
 {
 	"$schema": "https://schemas.wp.org/wp/6.7/theme.json",
 	"version": 3,
-	"title": "Steel Blue",
+	"title": "Avocado",
 	"settings": {
 		"color": {
 			"palette": [
@@ -11,42 +11,42 @@
 					"slug": "white"
 				},
 				{
-					"color": "#f3f7fc",
+					"color": "#f6f7ee",
 					"name": "Primary Faint",
 					"slug": "dual-tone-primary-faint"
 				},
 				{
-					"color": "#e6eff8",
+					"color": "#eaecdb",
 					"name": "Primary Pale",
 					"slug": "dual-tone-primary-pale"
 				},
 				{
-					"color": "#c8ddef",
+					"color": "#d8dbbb",
 					"name": "Primary Light",
 					"slug": "dual-tone-primary-light"
 				},
 				{
-					"color": "#97c0e2",
+					"color": "#bfc492",
 					"name": "Primary Regular",
 					"slug": "dual-tone-primary-regular"
 				},
 				{
-					"color": "#3b83bc",
+					"color": "#7e864b",
 					"name": "Primary Medium",
 					"slug": "dual-tone-primary-medium"
 				},
 				{
-					"color": "#235481",
+					"color": "#525932",
 					"name": "Primary Heading",
 					"slug": "dual-tone-primary-headings"
 				},
 				{
-					"color": "#15273c",
+					"color": "#1e2112",
 					"name": "Primary Text",
 					"slug": "dual-tone-primary-text"
 				},
 				{
-					"color": "#c36248",
+					"color": "c36248",
 					"name": "Secondary 600",
 					"slug": "dual-tone-secondary-600"
 				}
