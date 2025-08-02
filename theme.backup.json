@@ -29,19 +29,9 @@
 					"slug": "dual-tone-primary-300"
 				},
 				{
-					"color": "#9fa2da",
-					"name": "Primary 400",
-					"slug": "dual-tone-primary-400"
-				},
-				{
 					"color": "#8987cd",
 					"name": "Primary 500",
 					"slug": "dual-tone-primary-500"
-				},
-				{
-					"color": "#776ebd",
-					"name": "Primary 600",
-					"slug": "dual-tone-primary-600"
 				},
 				{
 					"color": "#635aa2",
@@ -49,74 +39,14 @@
 					"slug": "dual-tone-primary-700"
 				},
 				{
-					"color": "#544d86",
-					"name": "Primary 800",
-					"slug": "dual-tone-primary-800"
-				},
-				{
-					"color": "#47436c",
-					"name": "Primary 900",
-					"slug": "dual-tone-primary-900"
-				},
-				{
 					"color": "#2a273f",
 					"name": "Primary 950",
 					"slug": "dual-tone-primary-950"
 				},
 				{
-					"color": "#fffaeb",
-					"name": "Secondary 50",
-					"slug": "dual-tone-secondary-50"
-				},
-				{
-					"color": "#feefc7",
-					"name": "Secondary 100",
-					"slug": "dual-tone-secondary-100"
-				},
-				{
-					"color": "#fcde8b",
-					"name": "Secondary 200",
-					"slug": "dual-tone-secondary-200"
-				},
-				{
-					"color": "#fbc54e",
-					"name": "Secondary 300",
-					"slug": "dual-tone-secondary-300"
-				},
-				{
-					"color": "#fab330",
-					"name": "Secondary 400",
-					"slug": "dual-tone-secondary-400"
-				},
-				{
-					"color": "#f48d0c",
-					"name": "Secondary 500",
-					"slug": "dual-tone-secondary-500"
-				},
-				{
 					"color": "#d86807",
 					"name": "Secondary 600",
 					"slug": "dual-tone-secondary-600"
-				},
-				{
-					"color": "#b3470a",
-					"name": "Secondary 700",
-					"slug": "dual-tone-secondary-700"
-				},
-				{
-					"color": "#91370f",
-					"name": "Secondary 800",
-					"slug": "dual-tone-secondary-800"
-				},
-				{
-					"color": "#772e10",
-					"name": "Secondary 900",
-					"slug": "dual-tone-secondary-900"
-				},
-				{
-					"color": "#451503",
-					"name": "Secondary 950",
-					"slug": "dual-tone-secondary-950"
 				}
 			]
 		}
