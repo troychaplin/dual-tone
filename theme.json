@@ -7,7 +7,7 @@
 			],
 			"title": "Page: No Title"
 		},
-        {
+		{
 			"name": "page-wide-title",
 			"postTypes": [
 				"page"
@@ -360,6 +360,13 @@
 						"border": {
 							"radius": "18px"
 						}
+					}
+				}
+			},
+			"core/media-text": {
+				"spacing": {
+					"margin": {
+						"bottom": "var(--wp--preset--spacing--60)"
 					}
 				}
 			},
