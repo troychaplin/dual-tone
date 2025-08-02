@@ -557,7 +557,7 @@
 			},
 			"heading": {
 				"color": {
-					"text": "var(--wp--preset--color--custom-scampi-800)"
+					"text": "var(--wp--preset--color--custom-scampi-700)"
 				},
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--exo-2)",
