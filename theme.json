@@ -9,62 +9,47 @@
 				{
 					"color": "#FFFFFF",
 					"name": "White",
-					"slug": "custom-white"
+					"slug": "white"
 				},
 				{
 					"color": "#f2f4fb",
-					"name": "Scampi 50",
-					"slug": "custom-scampi-50"
+					"name": "Primary 50",
+					"slug": "dual-tone-primary-50"
 				},
 				{
 					"color": "#e8eaf7",
-					"name": "Scampi 100",
-					"slug": "custom-scampi-100"
+					"name": "Primary 100",
+					"slug": "dual-tone-primary-100"
 				},
 				{
 					"color": "#d5d9f0",
-					"name": "Scampi 200",
-					"slug": "custom-scampi-200"
+					"name": "Primary 200",
+					"slug": "dual-tone-primary-200"
 				},
 				{
 					"color": "#bbc0e6",
-					"name": "Scampi 300",
-					"slug": "custom-scampi-300"
-				},
-				{
-					"color": "#9fa2da",
-					"name": "Scampi 400",
-					"slug": "custom-scampi-400"
+					"name": "Primary 300",
+					"slug": "dual-tone-primary-300"
 				},
 				{
 					"color": "#8987cd",
-					"name": "Scampi 500",
-					"slug": "custom-scampi-500"
-				},
-				{
-					"color": "#776ebd",
-					"name": "Scampi 600",
-					"slug": "custom-scampi-600"
+					"name": "Primary 500",
+					"slug": "dual-tone-primary-500"
 				},
 				{
 					"color": "#635aa2",
-					"name": "Scampi 700",
-					"slug": "custom-scampi-700"
-				},
-				{
-					"color": "#544d86",
-					"name": "Scampi 800",
-					"slug": "custom-scampi-800"
-				},
-				{
-					"color": "#47436c",
-					"name": "Scampi 900",
-					"slug": "custom-scampi-900"
+					"name": "Primary 700",
+					"slug": "dual-tone-primary-700"
 				},
 				{
 					"color": "#2a273f",
-					"name": "Scampi 950",
-					"slug": "custom-scampi-950"
+					"name": "Primary 950",
+					"slug": "dual-tone-primary-950"
+				},
+				{
+					"color": "#d86807",
+					"name": "Secondary 600",
+					"slug": "dual-tone-secondary-600"
 				}
 			]
 		},
@@ -194,7 +179,7 @@
 						"min": "13px"
 					},
 					"name": "Small",
-					"size": "13px",
+					"size": "15px",
 					"slug": "small"
 				},
 				{
@@ -212,7 +197,7 @@
 						"min": "19px"
 					},
 					"name": "Large",
-					"size": "28px",
+					"size": "25px",
 					"slug": "large"
 				},
 				{
@@ -221,7 +206,7 @@
 						"min": "22px"
 					},
 					"name": "X-Large",
-					"size": "36px",
+					"size": "28px",
 					"slug": "x-large"
 				},
 				{
@@ -230,7 +215,7 @@
 						"min": "24px"
 					},
 					"name": "2X-Large",
-					"size": "42px",
+					"size": "36px",
 					"slug": "xx-large"
 				},
 				{
@@ -239,16 +224,16 @@
 						"min": "30px"
 					},
 					"name": "3X-Large",
-					"size": "54px",
+					"size": "50px",
 					"slug": "xxx-large"
 				},
 				{
 					"fluid": {
-						"max": "68px",
+						"max": "64px",
 						"min": "44px"
 					},
 					"name": "4X-Large",
-					"size": "72px",
+					"size": "64px",
 					"slug": "custom-1"
 				}
 			]
@@ -337,7 +322,7 @@
 						},
 						"color": {
 							"background": "#ffffff",
-							"text": "var(--wp--preset--color--custom-scampi-950)"
+							"text": "var(--wp--preset--color--dual-tone-primary-950)"
 						},
 						"spacing": {
 							"padding": {
@@ -373,35 +358,35 @@
 			"core/pullquote": {
 				"border": {
 					"bottom": {
-						"color": "var(--wp--preset--color--custom-scampi-100)",
+						"color": "var(--wp--preset--color--dual-tone-primary-100)",
 						"style": "solid",
 						"width": "1px"
 					},
 					"left": {
-						"color": "var(--wp--preset--color--custom-scampi-100)",
+						"color": "var(--wp--preset--color--dual-tone-primary-100)",
 						"style": "solid",
 						"width": "1px"
 					},
 					"radius": "8px",
 					"right": {
-						"color": "var(--wp--preset--color--custom-scampi-100)",
+						"color": "var(--wp--preset--color--dual-tone-primary-100)",
 						"style": "solid",
 						"width": "1px"
 					},
 					"top": {
-						"color": "var(--wp--preset--color--custom-scampi-100)",
+						"color": "var(--wp--preset--color--dual-tone-primary-100)",
 						"style": "solid",
 						"width": "1px"
 					}
 				},
 				"color": {
-					"background": "var(--wp--preset--color--custom-white)",
-					"text": "var(--wp--preset--color--custom-scampi-700)"
+					"background": "var(--wp--preset--color--white)",
+					"text": "var(--wp--preset--color--dual-tone-primary-700)"
 				},
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var(--wp--preset--color--custom-scampi-950)"
+							"text": "var(--wp--preset--color--dual-tone-primary-950)"
 						}
 					}
 				},
@@ -424,12 +409,12 @@
 			},
 			"core/search": {
 				"color": {
-					"text": "var(--wp--preset--color--custom-scampi-800)"
+					"text": "var(--wp--preset--color--dual-tone-primary-800)"
 				},
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var(--wp--preset--color--custom-scampi-800)"
+							"text": "var(--wp--preset--color--dual-tone-primary-800)"
 						}
 					}
 				},
@@ -440,34 +425,34 @@
 			},
 			"core/separator": {
 				"color": {
-					"background": "var(--wp--preset--color--custom-scampi-200)"
+					"background": "var(--wp--preset--color--dual-tone-primary-200)"
 				},
 				"variations": {
 					"dots": {
 						"color": {
-							"background": "var(--wp--preset--color--custom-scampi-200)"
+							"background": "var(--wp--preset--color--dual-tone-primary-200)"
 						}
 					},
 					"wide": {
 						"color": {
-							"background": "var(--wp--preset--color--custom-scampi-200)"
+							"background": "var(--wp--preset--color--dual-tone-primary-200)"
 						}
 					}
 				}
 			},
 			"core/site-title": {
 				"color": {
-					"text": "var(--wp--preset--color--custom-scampi-950)"
+					"text": "var(--wp--preset--color--dual-tone-primary-950)"
 				},
 				"elements": {
 					"link": {
 						":hover": {
 							"color": {
-								"text": "var(--wp--preset--color--custom-scampi-600)"
+								"text": "var(--wp--preset--color--dual-tone-primary-600)"
 							}
 						},
 						"color": {
-							"text": "var(--wp--preset--color--custom-scampi-950)"
+							"text": "var(--wp--preset--color--dual-tone-primary-950)"
 						}
 					}
 				},
@@ -481,13 +466,13 @@
 		},
 		"color": {
 			"background": "#ffffff",
-			"text": "var(--wp--preset--color--custom-scampi-950)"
+			"text": "var(--wp--preset--color--dual-tone-primary-950)"
 		},
 		"elements": {
 			"button": {
 				"color": {
-					"background": "var(--wp--preset--color--custom-scampi-100)",
-					"text": "var(--wp--preset--color--custom-scampi-950)"
+					"background": "var(--wp--preset--color--dual-tone-primary-100)",
+					"text": "var(--wp--preset--color--dual-tone-primary-950)"
 				},
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lato)",
@@ -498,7 +483,7 @@
 			},
 			"caption": {
 				"color": {
-					"text": "var(--wp--preset--color--custom-scampi-950)"
+					"text": "var(--wp--preset--color--dual-tone-primary-950)"
 				},
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--exo-2)",
@@ -512,7 +497,8 @@
 					"fontFamily": "var(--wp--preset--font-family--exo-2)",
 					"fontSize": "var(--wp--preset--font-size--xxx-large)",
 					"fontStyle": "normal",
-					"fontWeight": "400"
+					"fontWeight": "400",
+					"lineHeight": "1"
 				}
 			},
 			"h2": {
@@ -557,7 +543,7 @@
 			},
 			"heading": {
 				"color": {
-					"text": "var(--wp--preset--color--custom-scampi-700)"
+					"text": "var(--wp--preset--color--dual-tone-primary-700)"
 				},
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--exo-2)",
@@ -569,14 +555,16 @@
 			"link": {
 				":hover": {
 					"color": {
-						"text": "var(--wp--preset--color--custom-scampi-600)"
+						"text": "var(--wp--preset--color--dual-tone-primary-700)"
 					}
 				},
 				"color": {
-					"text": "var(--wp--preset--color--custom-scampi-950)"
+					"text": "var(--wp--preset--color--dual-tone-secondary-600)"
 				},
 				"typography": {
-					"textDecoration": "underline"
+					"fontStyle": "normal",
+					"fontWeight": "400",
+					"textDecoration": "none"
 				}
 			}
 		},
@@ -598,6 +586,13 @@
 			"area": "footer",
 			"name": "footer",
 			"title": "Footer"
+		}
+	],
+	"customTemplates": [
+		{
+			"name": "page-no-title",
+			"postTypes": ["page"],
+			"title": "Page: No Title"
 		}
 	],
 	"version": 3,
