@@ -200,7 +200,7 @@
 				},
 				{
 					"fluid": {
-						"max": "19px",
+						"max": "20px",
 						"min": "16px"
 					},
 					"name": "Medium",
@@ -245,11 +245,11 @@
 				},
 				{
 					"fluid": {
-						"max": "64px",
+						"max": "58px",
 						"min": "44px"
 					},
 					"name": "4X-Large",
-					"size": "64px",
+					"size": "58px",
 					"slug": "custom-1"
 				}
 			]
@@ -366,7 +366,8 @@
 			"core/media-text": {
 				"spacing": {
 					"margin": {
-						"bottom": "var(--wp--preset--spacing--60)"
+						"bottom": "var(--wp--preset--spacing--60)",
+						"top": "var(--wp--preset--spacing--60)"
 					}
 				}
 			},
