@@ -574,6 +574,9 @@
 				},
 				"color": {
 					"text": "var(--wp--preset--color--custom-scampi-950)"
+				},
+				"typography": {
+					"textDecoration": "underline"
 				}
 			}
 		},
