@@ -1,0 +1,22 @@
+.wp-block-media-text {
+    grid-gap: var(--wp--preset--spacing--30);
+}
+
+@media (min-width: 601px) {
+    .wp-block-media-text {
+        grid-gap: var(--wp--preset--spacing--60);
+    }
+}
+
+.wp-block-media-text img {
+    border-radius: 8px;
+}
+
+.wp-block-media-text > .wp-block-media-text__content {
+    padding: 0;
+    margin-bottom: var(--wp--preset--spacing--20);
+}
+
+.wp-block-media-text__content > *:first-child {
+    margin-top: var(--wp--preset--spacing--20);
+}
